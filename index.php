@@ -16,7 +16,7 @@
         <main class="col-md-10 ml-sm-auto col-lg-10">
             <h1 class="h2 mb-4">Dashboard</h1>
 
-            <p>Welcome to your product management system.</p>
+            <p>Welcome to your Customer management system.</p>
         </main>
 
     </div>
